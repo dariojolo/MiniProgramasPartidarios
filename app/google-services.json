@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "14924270753",
+    "firebase_url": "https://programaspartidarios.firebaseio.com",
+    "project_id": "programaspartidarios",
+    "storage_bucket": "programaspartidarios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14924270753:android:60b0bf08b964c625",
+        "android_client_info": {
+          "package_name": "v1.androidappsdhj.com.ar.programaspartidarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14924270753-t326ai7lihqlk1k7vq9imo7vev3mem07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "v1.androidappsdhj.com.ar.programaspartidarios",
+            "certificate_hash": "46b8355264aa2b454622550a5650a381489a85df"
+          }
+        },
+        {
+          "client_id": "14924270753-7o0i69e5ie4bvmmqdnggdtc0e8q40onn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9k7RKof_wmj5QRwjUB2GpNe3LkAMtcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14924270753-7o0i69e5ie4bvmmqdnggdtc0e8q40onn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14924270753:android:44134b08760f9d11",
+        "android_client_info": {
+          "package_name": "ar.com.androidappsdhj.miniprogramaspartidarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14924270753-j74kd02phu1fctajr5ft6u8bouq4drqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.androidappsdhj.miniprogramaspartidarios",
+            "certificate_hash": "46b8355264aa2b454622550a5650a381489a85df"
+          }
+        },
+        {
+          "client_id": "14924270753-7o0i69e5ie4bvmmqdnggdtc0e8q40onn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB9k7RKof_wmj5QRwjUB2GpNe3LkAMtcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14924270753-7o0i69e5ie4bvmmqdnggdtc0e8q40onn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
