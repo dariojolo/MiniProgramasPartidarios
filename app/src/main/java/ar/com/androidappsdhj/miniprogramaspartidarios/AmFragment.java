@@ -24,7 +24,7 @@ import io.realm.Sort;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class AmFragment extends Fragment implements RealmChangeListener<RealmResults<Programa>> {
+    public class AmFragment extends Fragment implements RealmChangeListener<RealmResults<Programa>> {
 
     private List<Programa> programas;
     private RecyclerView recycler;

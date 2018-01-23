@@ -9,8 +9,7 @@
     card_view:cardCornerRadius="4dp"
     android:clickable="true"
     android:focusable="true"
-    android:layout_margin="16dp"
-    android:foreground="?android:attr/selectableItemBackground">
+    android:layout_margin="16dp">
     <ImageView
         android:id="@+id/imagenPrograma"
         android:layout_width="match_parent"
